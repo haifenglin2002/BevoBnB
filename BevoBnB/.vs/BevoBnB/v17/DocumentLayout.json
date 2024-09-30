@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Haifeng\\OneDrive - The University of Texas at Austin\\Desktop\\Killer K Assignment\\BevoBnB\\BevoBnB\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{896F50F5-B771-4B11-9413-F82C455ABEF1}|BevoBnB\\BevoBnB.csproj|c:\\users\\haifeng\\onedrive - the university of texas at austin\\desktop\\killer k assignment\\bevobnb\\bevobnb\\bevobnb\\bevobnb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{896F50F5-B771-4B11-9413-F82C455ABEF1}|BevoBnB\\BevoBnB.csproj|solutionrelative:bevobnb\\bevobnb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BevoBnB",
+              "DocumentMoniker": "C:\\Users\\Haifeng\\OneDrive - The University of Texas at Austin\\Desktop\\Killer K Assignment\\BevoBnB\\BevoBnB\\BevoBnB\\BevoBnB.csproj",
+              "RelativeDocumentMoniker": "BevoBnB\\BevoBnB.csproj",
+              "ToolTip": "C:\\Users\\Haifeng\\OneDrive - The University of Texas at Austin\\Desktop\\Killer K Assignment\\BevoBnB\\BevoBnB\\BevoBnB\\BevoBnB.csproj",
+              "RelativeToolTip": "BevoBnB\\BevoBnB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T15:23:31.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

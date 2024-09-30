@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BevoBnB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc85edc095b6b53611bc150b0a5c3abb92856908")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d392831d2701a93e33d518868c79988f8d6ca92")]
 [assembly: System.Reflection.AssemblyProductAttribute("BevoBnB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BevoBnB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
